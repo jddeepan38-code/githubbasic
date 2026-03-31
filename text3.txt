@@ -1,0 +1,5 @@
+exercise for beginners bubby....
+first step is add the file
+second is to see the status of the file details 
+third , then commit the file in the local file folder
+four is , to add or push the file in the original hit account 
